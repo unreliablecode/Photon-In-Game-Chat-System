@@ -55,14 +55,4 @@ This Unity project demonstrates a simple in-game chat system using Photon PUN an
 - **Adjust UI**: Modify the `OnGUI()` method in `ChatManager` to customize the chat window's appearance.
 - **Add Features**: Extend the chat system by adding timestamps, private messaging, or other features according to your game's needs.
 
-## Contributing
-
-Contributions are welcome! Feel free to submit a pull request or open an issue if you have any suggestions or bug reports.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
-This `README.md` provides a comprehensive overview of the project, setup instructions, and customization tips. Make sure to replace placeholders like `https://github.com/yourusername/Photon-InGame-Chat.git` and `link-to-screenshot-or-gif` with your actual GitHub repository URL and any relevant media.
